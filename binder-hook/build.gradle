@@ -3,12 +3,6 @@ buildscript {
         jcenter()
         mavenCentral()
         google()
-//        maven {
-//            url 'https://maven.aliyun.com/repository/google/'
-//        }
-//        maven {
-//            url 'https://maven.aliyun.com/repository/jcenter/'
-//        }
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:4.0.1'
@@ -19,12 +13,6 @@ apply plugin: 'com.android.application'
 repositories {
     jcenter()
     mavenCentral()
-//    maven {
-//        url 'https://maven.aliyun.com/repository/google/'
-//    }
-//    maven {
-//        url 'https://maven.aliyun.com/repository/jcenter/'
-//    }
 }
 
 android {
