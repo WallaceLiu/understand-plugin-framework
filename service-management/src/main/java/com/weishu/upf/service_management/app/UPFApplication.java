@@ -12,7 +12,7 @@ import com.weishu.upf.service_management.app.hook.BaseDexClassLoaderHookHelper;
  * 这个类只是为了方便获取全局Context的.
  *
  * @author weishu
- * @date 16/3/29
+ * @date 16/3/23
  */
 public class UPFApplication extends Application {
 

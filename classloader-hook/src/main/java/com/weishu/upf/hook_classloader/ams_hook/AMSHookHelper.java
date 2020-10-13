@@ -44,7 +44,7 @@ public class AMSHookHelper {
         //        26public abstract class Singleton<T> {
         //            27    private T mInstance;
         //            28
-        //                    29    protected abstract T create();
+        //                    23    protected abstract T create();
         //            30
         //                    31    public final T get() {
         //                32        synchronized (this) {

@@ -7,7 +7,7 @@ import android.content.pm.PackageInfo;
 
 /**
  * @author weishu
- * @date 16/3/29
+ * @date 16/3/23
  */
 public class IPackageManagerHookHandler implements InvocationHandler{
 
